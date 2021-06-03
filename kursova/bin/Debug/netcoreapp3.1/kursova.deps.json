@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kursova/1.0.0": {
+        "dependencies": {
+          "kursova_lib": "1.0.0"
+        },
+        "runtime": {
+          "kursova.dll": {}
+        }
+      },
+      "kursova_lib/1.0.0": {
+        "runtime": {
+          "kursova_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kursova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kursova_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
