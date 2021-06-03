@@ -1,0 +1,9 @@
+D:\КПИ\ООП\курсач\kursova_lib\bin\Debug\netcoreapp3.1\kursova_lib.deps.json
+D:\КПИ\ООП\курсач\kursova_lib\bin\Debug\netcoreapp3.1\kursova_lib.dll
+D:\КПИ\ООП\курсач\kursova_lib\bin\Debug\netcoreapp3.1\kursova_lib.pdb
+D:\КПИ\ООП\курсач\kursova_lib\obj\Debug\netcoreapp3.1\kursova_lib.csprojAssemblyReference.cache
+D:\КПИ\ООП\курсач\kursova_lib\obj\Debug\netcoreapp3.1\kursova_lib.AssemblyInfoInputs.cache
+D:\КПИ\ООП\курсач\kursova_lib\obj\Debug\netcoreapp3.1\kursova_lib.AssemblyInfo.cs
+D:\КПИ\ООП\курсач\kursova_lib\obj\Debug\netcoreapp3.1\kursova_lib.csproj.CoreCompileInputs.cache
+D:\КПИ\ООП\курсач\kursova_lib\obj\Debug\netcoreapp3.1\kursova_lib.dll
+D:\КПИ\ООП\курсач\kursova_lib\obj\Debug\netcoreapp3.1\kursova_lib.pdb
